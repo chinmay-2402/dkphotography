@@ -1,0 +1,36 @@
+*{
+    background-color: white;
+    color: black;
+    font-family: 'Times New Roman';    
+}
+#header{
+    margin-top: 2%;
+   
+}
+#heading1 {
+       margin-left: 36%;
+       margin-bottom: 1%;
+    font-family: 'Times New Roman', Times, serif
+}
+.nav{
+    margin-left: 40%;
+}
+
+.nav-link , a{
+    color: black;
+}
+#footer{
+      margin-left: 42%;
+}
+.col-md-1{
+    height: 100%;
+    padding-left: 3%;
+    padding-right: 1%;
+    border-right: solid black 1px;
+}
+#quote{
+    margin-left: 33%;
+    margin-bottom: 1%;
+}
+
+
